@@ -1,3 +1,4 @@
+```markdown
 # Lab 7-3: Custom ESP32 Components (Sensor + Display)
 
 ## คำอธิบาย
@@ -25,5 +26,6 @@ lab7-3_esp32_Component/
 │   └── lab7-3.c
 ├── build/
 └── README.md
+```
 
 ![alt text](image.png)
