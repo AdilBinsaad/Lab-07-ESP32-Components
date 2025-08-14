@@ -1,0 +1,2 @@
+source /project/lab7-3_esp32_Component/build/bootloader/gdbinit/symbols
+source /project/lab7-3_esp32_Component/build/bootloader/gdbinit/connect
